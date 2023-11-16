@@ -1,0 +1,12 @@
+# Model related
+torch
+transformers
+accelerate
+bitsandbytes
+scipy
+gputil
+
+# HTTP endpoint related
+flask
+flask-cors
+flask-expects-json
